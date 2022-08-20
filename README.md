@@ -3,6 +3,17 @@
 
 # **Construction Object Detection**
 
+## **Table of Contents**
+1. [Introduction](#introduction)
+2. [Dataset](#dataset) ([download](https://drive.google.com/drive/folders/13P3b_imwy8UGSdfphMieWnMu7os9DScA?usp=sharing))
+3. [Methods](#methods)
+4. [Results](#Results)
+5. [Pre-trained models](#pre-trained-models) ([download](https://drive.google.com/drive/folders/13UdlVcA4osdn-oABGN4NfY7dSdjqllqd?usp=sharing))
+6. [Tutorials](#tutorials)
+
+## **Introduction**
+
+The repository presents real-time detection of construction-related objects (e.g.,building, equipment, worker). The detailed procedures can be found in the following paper.
 
 ### Article
 
