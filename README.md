@@ -45,7 +45,7 @@ The dataset (named **Pictor-v2**) contains 1,105 crowd-sourced and 1,402 web-min
 
 ### Annotation example
 
-**@TODO:** Please stay tuned!
+Please follow comments in the notebook [Annotation-Reading.ipynb](Annotation-Reading.ipynb) to understand the annotation format.
 
 ### Download the crowd-sourced dataset
 
