@@ -1,7 +1,9 @@
-# PICTOR-YOLO
+<img src="extras/graphics/pictor-yolo-logo.png" alt="Logo" width="400" align="middle"/>
 
 
 # **Construction Object Detection**
+
+<img src="extras/graphics/bew-sample.png" alt="Logo" width="400" align="middle"/>
 
 ## **Table of Contents**
 1. [Introduction](#introduction)
