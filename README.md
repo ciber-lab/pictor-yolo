@@ -1,9 +1,9 @@
-<img src="extras/graphics/pictor-yolo-logo.png" alt="Logo" width="400" align="middle"/>
+<img src="extras/graphics/pictor-yolo-logo.png" alt="Logo" width="240" align="middle"/>
 
 
 # **Construction Object Detection**
 
-<img src="extras/graphics/bew-sample.png" alt="Logo" width="400" align="middle"/>
+<img src="extras/graphics/bew-sample.png" alt="Logo" width="540" align="middle"/>
 
 ## **Table of Contents**
 1. [Introduction](#introduction)
@@ -43,7 +43,7 @@ Please cite the article if you use the dataset, model or method(s), or find the 
 
 The dataset (named **Pictor-v2**) contains 1,105 crowd-sourced and 1,402 web-mined images of buildings, equipment, and workers. Crowd-sourced and web-mined images contain 2,611 and 2,257 instances of workers, respectively. A brief statistics of the dataset is shown in the following figure.
 
-<img src="extras/graphics/Fig-03.jpg" alt="Dataset" width="840" align="middle"/>
+<img src="extras/graphics/Fig-03.jpg" alt="Dataset" width="540" align="middle"/>
 
 ### Annotation example
 
@@ -59,17 +59,17 @@ The crowd-sourced images and annotated labels can be found in these Google Drive
 
 The methodology presented in the paper is summarized in the following figure:
 
-<img src="extras/graphics/Fig-02.jpg" alt="Methods/Approaches" width="840" align="middle"/>
+<img src="extras/graphics/Fig-02.jpg" alt="Methods/Approaches" width="540" align="middle"/>
 
 ## **Results**
 
 - The mean-average-precision (mAP) of YOLO-v2 models in detecting classes:
 
-<img src="extras/graphics/Fig-09.jpg" alt="Results" width="640" align="middle"/>
+<img src="extras/graphics/Fig-09.jpg" alt="Results" width="540" align="middle"/>
 
 - The mean-average-precision (mAP) of YOLO-v3 models in detecting classes:
 
-<img src="extras/graphics/Fig-10.jpg" alt="Results" width="640" align="middle"/>
+<img src="extras/graphics/Fig-10.jpg" alt="Results" width="540" align="middle"/>
 
 
 ## **Pre-trained Models**
@@ -87,5 +87,5 @@ The folder contains following models:
 ## **Tutorials**
 
 Please follow the notebooks in [tutorials](https://github.com/nipundebnath/pictor-ppe/blob/master/tutorials/) folder to learn more about:
-- Building YOLO model from scratch using tensorflow 2.0
+- Building YOLO model from scratch using tensorflow 2.0.
 - Interpret YOLO output and convert to bounding boxes with class label and confidence score.
