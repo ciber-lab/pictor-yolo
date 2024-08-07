@@ -7,10 +7,10 @@
 
 ## **Table of Contents**
 1. [Introduction](#introduction)
-2. [Dataset](#dataset) ([download](https://drive.google.com/drive/folders/13P3b_imwy8UGSdfphMieWnMu7os9DScA?usp=sharing))
+2. [Dataset](#dataset) ([download](https://o365coloradoedu-my.sharepoint.com/:f:/r/personal/ambe3060_colorado_edu/Documents/github-ciber-lab/pictor-yolo?csf=1&web=1&e=vJDyXJ))
 3. [Methods](#methods)
 4. [Results](#Results)
-5. [Pre-trained models](#pre-trained-models) ([download](https://drive.google.com/drive/folders/13UdlVcA4osdn-oABGN4NfY7dSdjqllqd?usp=sharing))
+5. [Pre-trained models](#pre-trained-models) ([download](https://o365coloradoedu-my.sharepoint.com/:f:/r/personal/ambe3060_colorado_edu/Documents/github-ciber-lab/pictor-yolo/Models?csf=1&web=1&e=D7CDo3))
 6. [Tutorials](#tutorials)
 
 ## **Introduction**
