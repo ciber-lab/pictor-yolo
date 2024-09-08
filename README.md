@@ -51,7 +51,7 @@ Please follow comments in the notebook [Annotation-Reading.ipynb](Annotation-Rea
 
 ### Download the crowd-sourced dataset
 
-The crowd-sourced images and annotated labels can be accessed from the corresponding OneDrive folders.
+The crowd-sourced images and annotated labels can be accessed from the corresponding OneDrive subfolders.
 
 ## **Methods**
 
