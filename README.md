@@ -51,7 +51,7 @@ Please follow comments in the notebook [Annotation-Reading.ipynb](Annotation-Rea
 
 ### Download the crowd-sourced dataset
 
-The crowd-sourced images and annotated labels can be accessed from the corresponding OneDrive subfolders.
+The crowd-sourced images and annotated labels can be accessed from the corresponding subfolders in the dataset.
 
 ## **Methods**
 
@@ -72,7 +72,7 @@ The methodology presented in the paper is summarized in the following figure:
 
 ## **Pre-trained Models**
 
-Models trained on different combinations of Pictor-v2 dataset are available in the corresponding OneDrive subfolders of the "Models" folder.
+Models trained on different combinations of Pictor-v2 dataset are available in the corresponding subfolders of the "Models" folder in the dataset.
 
 The folder contains following models:
 - YOLO-v2 trained on crowd-sourced dataset.
