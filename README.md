@@ -53,7 +53,7 @@ Please follow comments in the notebook [Annotation-Reading.ipynb](Annotation-Rea
 
 The crowd-sourced images and annotated labels can be found in these folders:
 - [Crowd-sourced images](https://o365coloradoedu-my.sharepoint.com/:f:/g/personal/ambe3060_colorado_edu/Es5wpQoxFRZIqT9MvR3Du28BaO8F1OB3yzgjRU-5E_xReA?e=T4tgLG).
-- [Train, test, and validation labels](https://o365coloradoedu-my.sharepoint.com/:f:/g/personal/ambe3060_colorado_edu/EldWjZB4AmxCrQjLeANVu60BeGnP7FTfFS3A5iS3F-4Lfg?e=oUmHBw).
+- [Train, test, and validation labels](https://o365coloradoedu-my.sharepoint.com/:f:/g/personal/ambe3060_colorado_edu/EldWjZB4AmxCrQjLeANVu60BeGnP7FTfFS3A5iS3F-4Lfg?e=FsgIH9).
 
 ## **Methods**
 
