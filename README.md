@@ -10,7 +10,7 @@
 2. [Dataset](#dataset) ([download](https://o365coloradoedu-my.sharepoint.com/:f:/r/personal/ambe3060_colorado_edu/Documents/github-ciber-lab/pictor-yolo?csf=1&web=1&e=vJDyXJ))
 3. [Methods](#methods)
 4. [Results](#Results)
-5. [Pre-trained models](#pre-trained-models) ([download](https://o365coloradoedu-my.sharepoint.com/:f:/r/personal/ambe3060_colorado_edu/Documents/github-ciber-lab/pictor-yolo/Models?csf=1&web=1&e=D7CDo3))
+5. [Pre-trained models](#pre-trained-models) ([download](https://o365coloradoedu-my.sharepoint.com/:f:/g/personal/ambe3060_colorado_edu/EsW8i7TP5npEnh5unl8cSYcBNp8c9fiwzRxDzbfx0oL2LA?e=SecKuE))
 6. [Tutorials](#tutorials)
 
 ## **Introduction**
