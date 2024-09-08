@@ -72,9 +72,8 @@ The methodology presented in the paper is summarized in the following figure:
 
 ## **Pre-trained Models**
 
-Models trained on different combinations of Pictor-v2 dataset are available in the corresponding subfolders of the "Models" folder in the dataset.
+You can download the models trained on different combinations of Pictor-v2 dataset from the "Models" folder in the dataset. These models include:
 
-The folder contains following models:
 - YOLO-v2 trained on crowd-sourced dataset.
 - YOLO-v2 trained on web-mined dataset.
 - YOLO-v2 trained on combined (crowd-sourced + web-mined) dataset.
