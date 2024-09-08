@@ -51,9 +51,9 @@ Please follow comments in the notebook [Annotation-Reading.ipynb](Annotation-Rea
 
 ### Download the crowd-sourced dataset
 
-The crowd-sourced images and annotated labels can be found in these Google Drive folders:
-- [Crowd-sourced images](https://o365coloradoedu-my.sharepoint.com/:f:/r/personal/ambe3060_colorado_edu/Documents/github-ciber-lab/pictor-yolo/Images?csf=1&web=1&e=nNKdUM).
-- [Train, test, and validation labels](https://o365coloradoedu-my.sharepoint.com/:f:/r/personal/ambe3060_colorado_edu/Documents/github-ciber-lab/pictor-yolo/Labels?csf=1&web=1&e=rCzl5r).
+The crowd-sourced images and annotated labels can be found in these folders:
+- [Crowd-sourced images](https://o365coloradoedu-my.sharepoint.com/:f:/g/personal/ambe3060_colorado_edu/Es5wpQoxFRZIqT9MvR3Du28BaO8F1OB3yzgjRU-5E_xReA?e=T4tgLG).
+- [Train, test, and validation labels](https://o365coloradoedu-my.sharepoint.com/:f:/g/personal/ambe3060_colorado_edu/EldWjZB4AmxCrQjLeANVu60BeGnP7FTfFS3A5iS3F-4Lfg?e=oUmHBw).
 
 ## **Methods**
 
@@ -74,7 +74,7 @@ The methodology presented in the paper is summarized in the following figure:
 
 ## **Pre-trained Models**
 
-Models trained on different combinations of Pictor-v2 dataset are available in this [folder](https://o365coloradoedu-my.sharepoint.com/:f:/r/personal/ambe3060_colorado_edu/Documents/github-ciber-lab/pictor-yolo/Models?csf=1&web=1&e=OK1I0b).
+Models trained on different combinations of Pictor-v2 dataset are available in this [folder](https://o365coloradoedu-my.sharepoint.com/:f:/g/personal/ambe3060_colorado_edu/EsW8i7TP5npEnh5unl8cSYcBNp8c9fiwzRxDzbfx0oL2LA?e=SecKuE).
 
 The folder contains following models:
 - YOLO-v2 trained on crowd-sourced dataset.
