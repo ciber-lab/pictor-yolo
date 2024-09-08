@@ -10,7 +10,7 @@
 2. [Dataset](#dataset) ([download](https://o365coloradoedu-my.sharepoint.com/:f:/g/personal/ambe3060_colorado_edu/EsiLaSYkGdNHoFcBRx9agQUByGehkQTnz8BxAGVirKEmcg?e=h8dr5S))
 3. [Methods](#methods)
 4. [Results](#Results)
-5. [Pre-trained models](#pre-trained-models) ([download](https://o365coloradoedu-my.sharepoint.com/:f:/g/personal/ambe3060_colorado_edu/EsW8i7TP5npEnh5unl8cSYcBI7FysOCa2stEW9Md1ViONA?e=YbxKXm))
+5. [Pre-trained models](#pre-trained-models)
 6. [Tutorials](#tutorials)
 
 ## **Introduction**
