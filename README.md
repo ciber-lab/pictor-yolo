@@ -7,7 +7,7 @@
 
 ## **Table of Contents**
 1. [Introduction](#introduction)
-2. [Dataset](#dataset) ([download](https://o365coloradoedu-my.sharepoint.com/:f:/g/personal/ambe3060_colorado_edu/EsiLaSYkGdNHoFcBRx9agQUByGehkQTnz8BxAGVirKEmcg?e=h8dr5S))
+2. [Dataset](#dataset)
 3. [Methods](#methods)
 4. [Results](#Results)
 5. [Pre-trained models](#pre-trained-models)
